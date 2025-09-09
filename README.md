@@ -3,7 +3,8 @@ Learning AI in a strategic way
 Prioritized AI/ML Mastery Roadmap
 
 
-🥇 Tier 1 – Core Foundations (Must Master First)
+### 🥇 Tier 1 – Core Foundations (Must Master First)
+
 These give you the 80/20 leverage: most of real-world AI work relies on them.
 1. Supervised Learning (Regression, Classification, Decision Trees, SVM, KNN)
 2. Ensemble Learning (Random Forest, XGBoost, LightGBM, CatBoost)
@@ -18,8 +19,10 @@ These give you the 80/20 leverage: most of real-world AI work relies on them.
 👉 Why: These are used in 80%+ of applied AI/ML jobs (finance, healthcare, NLP, vision, recommender systems).
 
 
-🥈 Tier 2 – Modern Must-Haves
-Critical for cutting-edge AI applications and staying relevant.
+### 🥈 Tier 2 – Modern Must-Haves
+
+Critical for cutting-edge AI applications and staying relevant. 
+
 5. Transformers & Modern Deep Learning (BERT, GPT, Vision Transformers)
 6. Generative AI (LLMs, RAG, VAEs, GANs, Diffusion Models)
 7. Advanced Neural Architectures (seq2seq, attention, residuals, multimodal models)
@@ -28,8 +31,10 @@ Critical for cutting-edge AI applications and staying relevant.
 👉 Why: These power today’s state-of-the-art AI (ChatGPT, Stable Diffusion, CLIP, etc.).
 
 
-🥉 Tier 3 – Advanced/Complementary Skills
-Good for depth and specialization.
+### 🥉 Tier 3 – Advanced/Complementary Skills
+
+Good for depth and specialization 
+
 9. Reinforcement Learning (Advanced) (PPO, A3C, DQN, SAC, Multi-Agent RL)
 10. Probabilistic & Bayesian Models (Bayesian Nets, HMM, Gaussian Processes)
 11. Advanced Topics
@@ -39,8 +44,10 @@ Good for depth and specialization.
 👉 Why: Needed for robotics, gaming, personalization, uncertainty modeling, but less common in everyday production ML systems.
 
 
-🥄 Tier 4 – Leadership & Ethics (Long-Term Mastery)
-Important but not first priority if you want speed.
+### 🥄 Tier 4 – Leadership & Ethics (Long-Term Mastery)
+
+Important but not first priority if you want speed
+
 12. Responsible & Ethical AI (fairness, bias, explainability, privacy, alignment)
 13. Full-Scale MLOps (feature stores, automated retraining pipelines, CI/CD for ML)
 
