@@ -14,6 +14,7 @@ These give you the 80/20 leverage: most of real-world AI work relies on them.
    + Deployment (APIs, Docker, Kubernetes basics)
    + Experiment tracking (MLflow, DVC)
    + Monitoring & versioning
+     
 👉 Why: These are used in 80%+ of applied AI/ML jobs (finance, healthcare, NLP, vision, recommender systems).
 
 
@@ -23,6 +24,7 @@ Critical for cutting-edge AI applications and staying relevant.
 6. Generative AI (LLMs, RAG, VAEs, GANs, Diffusion Models)
 7. Advanced Neural Architectures (seq2seq, attention, residuals, multimodal models)
 8. Unsupervised Learning (K-Means, DBSCAN, PCA, t-SNE, UMAP, GMM)
+
 👉 Why: These power today’s state-of-the-art AI (ChatGPT, Stable Diffusion, CLIP, etc.).
 
 
@@ -33,6 +35,7 @@ Good for depth and specialization.
 11. Advanced Topics
   + Transfer Learning, Few-shot/Zero-shot, Meta-learning
   + Online/Continual/Active Learning
+    
 👉 Why: Needed for robotics, gaming, personalization, uncertainty modeling, but less common in everyday production ML systems.
 
 
@@ -40,4 +43,5 @@ Good for depth and specialization.
 Important but not first priority if you want speed.
 12. Responsible & Ethical AI (fairness, bias, explainability, privacy, alignment)
 13. Full-Scale MLOps (feature stores, automated retraining pipelines, CI/CD for ML)
+
 👉 Why: Critical for AI leadership and scaling teams, but you should nail technical mastery first.
